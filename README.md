@@ -3,7 +3,7 @@
 ### Sample Run (Eng)
 
 ```shell
-# run with images/R-540832-1331752044.jpeg.jpg
+# run with images/queen_album.jpg
 python detect.py
 ```
 
