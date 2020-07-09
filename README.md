@@ -2,6 +2,8 @@
 
 ### Sample Run (Eng)
 
+![eng_image](./images/queen_album.jpg)
+
 ```shell
 # run with images/queen_album.jpg
 python detect.py
@@ -16,6 +18,8 @@ Using CPU. Note: This module is much faster with a GPU.
 
 ### Sample Run (Kor)
 
+![kor_image](images/YBIGTA.jpg)
+
 ```shell
 # run with images/YBIGTA.jpg
 python detect.py
@@ -29,4 +33,4 @@ Using CPU. Note: This module is much faster with a GPU.
 
 
 ### Source
-* [Github](https://github.com/JaidedAI/EasyOCR)
+* [EasyOCR Github Repo](https://github.com/JaidedAI/EasyOCR)
